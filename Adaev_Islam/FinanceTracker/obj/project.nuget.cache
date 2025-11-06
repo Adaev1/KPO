@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YjnoI1BcIcs=",
+  "success": true,
+  "projectFilePath": "/Users/islam.adaev/Adaev_Islam/FinanceTracker/FinanceTracker.csproj",
+  "expectedPackageFiles": [
+    "/Users/islam.adaev/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "/Users/islam.adaev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
+  "logs": []
+}

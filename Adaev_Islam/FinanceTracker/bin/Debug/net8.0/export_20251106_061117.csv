@@ -1,0 +1,10 @@
+1,Main Account,54300
+2,Savings,50000
+1,Salary,Income
+2,Cashback,Income
+3,Groceries,Expense
+4,Transport,Expense
+1,Income,1,50000,2025-10-27,Monthly salary,1
+2,Expense,1,5000,2025-10-29,Food shopping,3
+3,Expense,1,1200,2025-11-01,Metro card,4
+4,Income,1,500,2025-11-03,Cashback from bank,2
